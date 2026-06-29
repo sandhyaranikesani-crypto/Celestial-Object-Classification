@@ -1,5 +1,28 @@
 # Celestial Object Classification & Lifetime Regression
 
+
+# 📸 Project Screenshots
+
+## Training Output
+
+![Training](screenshots/train1,2.png)
+
+## Prediction Output
+
+![Prediction](screenshots/predict1,2.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+## Feature Importance
+
+![Feature Importance](outputs/feature_importance.png)
+
+## Regression Plot
+
+![Regression Plot](outputs/regression_plot.png)
+
 A robust, modular, and beginner-friendly Machine Learning project designed to classify celestial objects (Stars, Planets, Moons, Asteroids, and Comets) based on their physical properties and predict their estimated lifetimes using Random Forest models. This project features a complete end-to-end data cleaning, feature engineering, training, and interactive prediction pipeline.
 
 ---
